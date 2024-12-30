@@ -6,16 +6,27 @@ Additionally, the app saves mood data (text, sentiment, and emoji) to a JSON fil
 
 ## Features
 i)Sentiment Analysis: Analyzes user input to categorize sentiment as positive, negative, or neutral.
+
 ii)Emoji Mapping: Maps sentiment to emojis for a fun, visual mood representation.
+
 iii)Mood History: Stores mood data (text, sentiment, emoji) in a JSON file.
+
 iv)Interactive Feedback: Users can provide feedback on whether the emoji matches their mood, influencing future analysis.
+
 v)Simple & Interactive: A text-based, user-friendly interface for easy interaction.
+
 ## Tech Stack
 Python: The programming language used for this project.
+
 TextBlob: For performing sentiment analysis on user input.
+
 emoji: A Python library to convert sentiment to corresponding emojis.
+
 JSON: For storing and retrieving the mood data history.
+
 ## Installation
 Python 3.x
+
 textblob library
+
 emoji library
